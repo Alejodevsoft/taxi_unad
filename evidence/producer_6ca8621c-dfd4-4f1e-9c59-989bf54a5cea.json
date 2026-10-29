@@ -1,0 +1,33 @@
+{
+  "run_id": "6ca8621c-dfd4-4f1e-9c59-989bf54a5cea",
+  "simulation": true,
+  "sent_valid": 5,
+  "sent_invalid": 1,
+  "rate": 2.0,
+  "receipts": [
+    {
+      "partition": 2,
+      "offset": 214
+    },
+    {
+      "partition": 1,
+      "offset": 124
+    },
+    {
+      "partition": 2,
+      "offset": 215
+    },
+    {
+      "partition": 0,
+      "offset": 109
+    },
+    {
+      "partition": 2,
+      "offset": 216
+    },
+    {
+      "partition": 2,
+      "offset": 217
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "python": "3.11.11 (main, Apr  8 2025, 04:27:35) [GCC 12.2.0]",
+  "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.36",
+  "java": "openjdk version \"17.0.12\" 2024-07-16\nOpenJDK Runtime Environment Temurin-17.0.12+7 (build 17.0.12+7)\nOpenJDK 64-Bit Server VM Temurin-17.0.12+7 (build 17.0.12+7, mixed mode, sharing)\n"
+}

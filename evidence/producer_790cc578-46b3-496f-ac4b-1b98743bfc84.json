@@ -1,0 +1,169 @@
+{
+  "run_id": "790cc578-46b3-496f-ac4b-1b98743bfc84",
+  "simulation": true,
+  "sent_valid": 40,
+  "sent_invalid": 0,
+  "rate": 4,
+  "receipts": [
+    {
+      "partition": 2,
+      "offset": 69
+    },
+    {
+      "partition": 1,
+      "offset": 42
+    },
+    {
+      "partition": 2,
+      "offset": 70
+    },
+    {
+      "partition": 0,
+      "offset": 40
+    },
+    {
+      "partition": 2,
+      "offset": 71
+    },
+    {
+      "partition": 1,
+      "offset": 43
+    },
+    {
+      "partition": 2,
+      "offset": 72
+    },
+    {
+      "partition": 1,
+      "offset": 44
+    },
+    {
+      "partition": 2,
+      "offset": 73
+    },
+    {
+      "partition": 0,
+      "offset": 41
+    },
+    {
+      "partition": 1,
+      "offset": 45
+    },
+    {
+      "partition": 2,
+      "offset": 74
+    },
+    {
+      "partition": 2,
+      "offset": 75
+    },
+    {
+      "partition": 0,
+      "offset": 42
+    },
+    {
+      "partition": 0,
+      "offset": 43
+    },
+    {
+      "partition": 1,
+      "offset": 46
+    },
+    {
+      "partition": 2,
+      "offset": 76
+    },
+    {
+      "partition": 0,
+      "offset": 44
+    },
+    {
+      "partition": 2,
+      "offset": 77
+    },
+    {
+      "partition": 2,
+      "offset": 78
+    },
+    {
+      "partition": 2,
+      "offset": 79
+    },
+    {
+      "partition": 0,
+      "offset": 45
+    },
+    {
+      "partition": 1,
+      "offset": 47
+    },
+    {
+      "partition": 0,
+      "offset": 46
+    },
+    {
+      "partition": 2,
+      "offset": 80
+    },
+    {
+      "partition": 2,
+      "offset": 81
+    },
+    {
+      "partition": 2,
+      "offset": 82
+    },
+    {
+      "partition": 2,
+      "offset": 83
+    },
+    {
+      "partition": 2,
+      "offset": 84
+    },
+    {
+      "partition": 1,
+      "offset": 48
+    },
+    {
+      "partition": 2,
+      "offset": 85
+    },
+    {
+      "partition": 2,
+      "offset": 86
+    },
+    {
+      "partition": 1,
+      "offset": 49
+    },
+    {
+      "partition": 1,
+      "offset": 50
+    },
+    {
+      "partition": 0,
+      "offset": 47
+    },
+    {
+      "partition": 2,
+      "offset": 87
+    },
+    {
+      "partition": 1,
+      "offset": 51
+    },
+    {
+      "partition": 0,
+      "offset": 48
+    },
+    {
+      "partition": 0,
+      "offset": 49
+    },
+    {
+      "partition": 2,
+      "offset": 88
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "original_metadata_rows": 3475226,
+  "exported_clean_rows": 3408207,
+  "exported_rejected_representatives": 67019,
+  "timestamp_parquet": "<ParquetColumnSchema>\n  name: tpep_pickup_datetime\n  path: tpep_pickup_datetime\n  max_definition_level: 1\n  max_repetition_level: 0\n  physical_type: INT64\n  logical_type: Timestamp(isAdjustedToUTC=false, timeUnit=microseconds, is_from_converted_type=false, force_set_converted_type=false)\n  converted_type (legacy): NONE"
+}

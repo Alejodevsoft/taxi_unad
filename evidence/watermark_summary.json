@@ -1,0 +1,10 @@
+{
+  "last_watermark": {
+    "avg": "2026-10-25T18:16:41.818Z",
+    "max": "2026-10-25T18:16:42.443Z",
+    "min": "2026-10-25T18:16:41.193Z",
+    "watermark": "2026-10-25T18:16:10.943Z"
+  },
+  "state_rows_removed": 65,
+  "rows_dropped_by_watermark": 0
+}

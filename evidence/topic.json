@@ -1,0 +1,43 @@
+{
+  "error_code": 0,
+  "topic": "viajes_taxi",
+  "is_internal": false,
+  "partitions": [
+    {
+      "error_code": 0,
+      "partition": 2,
+      "leader": 1,
+      "replicas": [
+        1
+      ],
+      "isr": [
+        1
+      ],
+      "offline_replicas": []
+    },
+    {
+      "error_code": 0,
+      "partition": 0,
+      "leader": 1,
+      "replicas": [
+        1
+      ],
+      "isr": [
+        1
+      ],
+      "offline_replicas": []
+    },
+    {
+      "error_code": 0,
+      "partition": 1,
+      "leader": 1,
+      "replicas": [
+        1
+      ],
+      "isr": [
+        1
+      ],
+      "offline_replicas": []
+    }
+  ]
+}

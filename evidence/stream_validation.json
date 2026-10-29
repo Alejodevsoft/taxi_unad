@@ -1,0 +1,31 @@
+{
+  "started_at": "2026-10-25T18:14:32.675436+00:00",
+  "status": "passed",
+  "baseline": {
+    "counts": {
+      "messages": 0,
+      "valid": 0,
+      "invalid": 0
+    },
+    "aggregate_trips": 0,
+    "windows": [],
+    "batches": [],
+    "invalid": []
+  },
+  "pause_stable": true,
+  "sent_valid": 190,
+  "sent_invalid": 1,
+  "restart_preserved_counts": true,
+  "panel_api_verified": true,
+  "final_counts": {
+    "messages": 191,
+    "valid": 190,
+    "invalid": 1
+  },
+  "windows_count": 92,
+  "producer_runs": [
+    "144ef8dd-54f9-486e-bd19-7b00a6ef8fd8",
+    "790cc578-46b3-496f-ac4b-1b98743bfc84"
+  ],
+  "finished_at": "2026-10-25T18:16:49.990573+00:00"
+}

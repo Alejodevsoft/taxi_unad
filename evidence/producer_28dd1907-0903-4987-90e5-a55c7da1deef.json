@@ -1,0 +1,49 @@
+{
+  "run_id": "28dd1907-0903-4987-90e5-a55c7da1deef",
+  "simulation": true,
+  "sent_valid": 10,
+  "sent_invalid": 0,
+  "rate": 2.0,
+  "receipts": [
+    {
+      "partition": 2,
+      "offset": 151
+    },
+    {
+      "partition": 1,
+      "offset": 87
+    },
+    {
+      "partition": 2,
+      "offset": 152
+    },
+    {
+      "partition": 0,
+      "offset": 79
+    },
+    {
+      "partition": 2,
+      "offset": 153
+    },
+    {
+      "partition": 1,
+      "offset": 88
+    },
+    {
+      "partition": 2,
+      "offset": 154
+    },
+    {
+      "partition": 1,
+      "offset": 89
+    },
+    {
+      "partition": 2,
+      "offset": 155
+    },
+    {
+      "partition": 0,
+      "offset": 80
+    }
+  ]
+}

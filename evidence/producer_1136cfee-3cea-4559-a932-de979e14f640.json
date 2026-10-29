@@ -1,0 +1,49 @@
+{
+  "run_id": "1136cfee-3cea-4559-a932-de979e14f640",
+  "simulation": true,
+  "sent_valid": 10,
+  "sent_invalid": 0,
+  "rate": 2.0,
+  "receipts": [
+    {
+      "partition": 2,
+      "offset": 218
+    },
+    {
+      "partition": 1,
+      "offset": 125
+    },
+    {
+      "partition": 2,
+      "offset": 219
+    },
+    {
+      "partition": 0,
+      "offset": 110
+    },
+    {
+      "partition": 2,
+      "offset": 220
+    },
+    {
+      "partition": 1,
+      "offset": 126
+    },
+    {
+      "partition": 2,
+      "offset": 221
+    },
+    {
+      "partition": 1,
+      "offset": 127
+    },
+    {
+      "partition": 2,
+      "offset": 222
+    },
+    {
+      "partition": 0,
+      "offset": 111
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+data
+outputs
+evidence
+runtime
+.venv
+__pycache__
+*.py[cod]
+.pytest_cache

@@ -1,0 +1,614 @@
+{
+  "counts": {
+    "messages": 151,
+    "valid": 150,
+    "invalid": 1
+  },
+  "aggregate_trips": 150,
+  "windows": [
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 239,
+      "trips": 8,
+      "avg_duration_minutes": 10.68125,
+      "avg_amount_usd": 22.377499999999998,
+      "updated_at": "2026-10-25T18:16:00.329920+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 141,
+      "trips": 8,
+      "avg_duration_minutes": 9.170833333333333,
+      "avg_amount_usd": 23.06375,
+      "updated_at": "2026-10-25T18:16:00.329920+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 142,
+      "trips": 7,
+      "avg_duration_minutes": 8.85952380952381,
+      "avg_amount_usd": 17.774285714285714,
+      "updated_at": "2026-10-25T18:16:00.329920+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 237,
+      "trips": 6,
+      "avg_duration_minutes": 8.177777777777779,
+      "avg_amount_usd": 16.333333333333332,
+      "updated_at": "2026-10-25T18:15:45.273848+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 229,
+      "trips": 6,
+      "avg_duration_minutes": 18.966666666666665,
+      "avg_amount_usd": 26.47,
+      "updated_at": "2026-10-25T18:15:50.318408+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 263,
+      "trips": 5,
+      "avg_duration_minutes": 17.136666666666667,
+      "avg_amount_usd": 32.152,
+      "updated_at": "2026-10-25T18:15:45.273848+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 148,
+      "trips": 5,
+      "avg_duration_minutes": 8.280000000000001,
+      "avg_amount_usd": 18.862000000000002,
+      "updated_at": "2026-10-25T18:15:50.318408+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 246,
+      "trips": 4,
+      "avg_duration_minutes": 8.491666666666667,
+      "avg_amount_usd": 16.125,
+      "updated_at": "2026-10-25T18:15:40.314857+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 236,
+      "trips": 4,
+      "avg_duration_minutes": 30.15833333333333,
+      "avg_amount_usd": 40.655,
+      "updated_at": "2026-10-25T18:15:30.332224+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 162,
+      "trips": 4,
+      "avg_duration_minutes": 6.8375,
+      "avg_amount_usd": 15.68,
+      "updated_at": "2026-10-25T18:15:45.273848+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 249,
+      "trips": 3,
+      "avg_duration_minutes": 24.05,
+      "avg_amount_usd": 35.093333333333334,
+      "updated_at": "2026-10-25T18:16:00.329920+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 231,
+      "trips": 3,
+      "avg_duration_minutes": 14.477777777777776,
+      "avg_amount_usd": 25.016666666666666,
+      "updated_at": "2026-10-25T18:16:00.329920+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 161,
+      "trips": 3,
+      "avg_duration_minutes": 24.594444444444445,
+      "avg_amount_usd": 46.70666666666667,
+      "updated_at": "2026-10-25T18:15:35.319739+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 158,
+      "trips": 3,
+      "avg_duration_minutes": 20.48888888888889,
+      "avg_amount_usd": 31.560000000000002,
+      "updated_at": "2026-10-25T18:15:50.318408+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 138,
+      "trips": 3,
+      "avg_duration_minutes": 23.144444444444446,
+      "avg_amount_usd": 57.90666666666667,
+      "updated_at": "2026-10-25T18:15:25.566920+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 114,
+      "trips": 3,
+      "avg_duration_minutes": 14.155555555555557,
+      "avg_amount_usd": 22.38,
+      "updated_at": "2026-10-25T18:16:00.329920+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 113,
+      "trips": 3,
+      "avg_duration_minutes": 12.777777777777779,
+      "avg_amount_usd": 18.386666666666667,
+      "updated_at": "2026-10-25T18:15:55.285351+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 107,
+      "trips": 3,
+      "avg_duration_minutes": 10.388888888888888,
+      "avg_amount_usd": 18.606666666666666,
+      "updated_at": "2026-10-25T18:15:50.318408+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 79,
+      "trips": 3,
+      "avg_duration_minutes": 21.455555555555552,
+      "avg_amount_usd": 31.71333333333334,
+      "updated_at": "2026-10-25T18:15:55.285351+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 264,
+      "trips": 2,
+      "avg_duration_minutes": 8.358333333333333,
+      "avg_amount_usd": 19.244999999999997,
+      "updated_at": "2026-10-25T18:15:40.314857+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 261,
+      "trips": 2,
+      "avg_duration_minutes": 12.425,
+      "avg_amount_usd": 22.17,
+      "updated_at": "2026-10-25T18:15:25.566920+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 238,
+      "trips": 2,
+      "avg_duration_minutes": 6.55,
+      "avg_amount_usd": 15.17,
+      "updated_at": "2026-10-25T18:15:50.318408+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 234,
+      "trips": 2,
+      "avg_duration_minutes": 12.275,
+      "avg_amount_usd": 20.545,
+      "updated_at": "2026-10-25T18:16:00.329920+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 164,
+      "trips": 2,
+      "avg_duration_minutes": 11.466666666666667,
+      "avg_amount_usd": 20.04,
+      "updated_at": "2026-10-25T18:15:55.285351+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 163,
+      "trips": 2,
+      "avg_duration_minutes": 9.7,
+      "avg_amount_usd": 24.05,
+      "updated_at": "2026-10-25T18:15:15.358999+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 151,
+      "trips": 2,
+      "avg_duration_minutes": 8.783333333333333,
+      "avg_amount_usd": 20.45,
+      "updated_at": "2026-10-25T18:16:00.329920+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 140,
+      "trips": 2,
+      "avg_duration_minutes": 11.291666666666666,
+      "avg_amount_usd": 16.75,
+      "updated_at": "2026-10-25T18:15:50.318408+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 137,
+      "trips": 2,
+      "avg_duration_minutes": 9.558333333333334,
+      "avg_amount_usd": 16.43,
+      "updated_at": "2026-10-25T18:15:55.285351+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 132,
+      "trips": 2,
+      "avg_duration_minutes": 21.566666666666666,
+      "avg_amount_usd": 44.0,
+      "updated_at": "2026-10-25T18:15:45.273848+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 68,
+      "trips": 2,
+      "avg_duration_minutes": 16.541666666666664,
+      "avg_amount_usd": 59.765,
+      "updated_at": "2026-10-25T18:15:15.358999+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 48,
+      "trips": 2,
+      "avg_duration_minutes": 20.441666666666666,
+      "avg_amount_usd": 30.22,
+      "updated_at": "2026-10-25T18:15:55.285351+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 262,
+      "trips": 1,
+      "avg_duration_minutes": 13.316666666666666,
+      "avg_amount_usd": 24.1,
+      "updated_at": "2026-10-25T18:16:00.329920+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 233,
+      "trips": 1,
+      "avg_duration_minutes": 11.85,
+      "avg_amount_usd": 19.5,
+      "updated_at": "2026-10-25T18:15:55.285351+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 211,
+      "trips": 1,
+      "avg_duration_minutes": 13.366666666666667,
+      "avg_amount_usd": 19.7,
+      "updated_at": "2026-10-25T18:15:15.358999+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 209,
+      "trips": 1,
+      "avg_duration_minutes": 9.916666666666666,
+      "avg_amount_usd": 14.3,
+      "updated_at": "2026-10-25T18:15:20.361206+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 170,
+      "trips": 1,
+      "avg_duration_minutes": 10.816666666666666,
+      "avg_amount_usd": 23.85,
+      "updated_at": "2026-10-25T18:15:55.285351+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 144,
+      "trips": 1,
+      "avg_duration_minutes": 14.883333333333333,
+      "avg_amount_usd": 24.72,
+      "updated_at": "2026-10-25T18:15:30.332224+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 143,
+      "trips": 1,
+      "avg_duration_minutes": 19.783333333333335,
+      "avg_amount_usd": 29.0,
+      "updated_at": "2026-10-25T18:15:45.273848+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 93,
+      "trips": 1,
+      "avg_duration_minutes": 28.566666666666666,
+      "avg_amount_usd": 83.3,
+      "updated_at": "2026-10-25T18:15:25.566920+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 90,
+      "trips": 1,
+      "avg_duration_minutes": 16.95,
+      "avg_amount_usd": 25.55,
+      "updated_at": "2026-10-25T18:15:20.361206+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 70,
+      "trips": 1,
+      "avg_duration_minutes": 13.116666666666667,
+      "avg_amount_usd": 40.39,
+      "updated_at": "2026-10-25T18:15:50.318408+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 50,
+      "trips": 1,
+      "avg_duration_minutes": 31.316666666666666,
+      "avg_amount_usd": 43.2,
+      "updated_at": "2026-10-25T18:15:25.566920+00:00"
+    },
+    {
+      "start": "2026-10-25 18:15:00",
+      "end": "2026-10-25 18:16:00",
+      "pickup_zone": 43,
+      "trips": 1,
+      "avg_duration_minutes": 10.116666666666667,
+      "avg_amount_usd": 17.1,
+      "updated_at": "2026-10-25T18:15:40.314857+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 229,
+      "trips": 4,
+      "avg_duration_minutes": 7.158333333333333,
+      "avg_amount_usd": 15.25,
+      "updated_at": "2026-10-25T18:15:01.140888+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 246,
+      "trips": 2,
+      "avg_duration_minutes": 22.291666666666668,
+      "avg_amount_usd": 31.58,
+      "updated_at": "2026-10-25T18:14:55.510615+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 238,
+      "trips": 2,
+      "avg_duration_minutes": 9.891666666666666,
+      "avg_amount_usd": 18.810000000000002,
+      "updated_at": "2026-10-25T18:14:55.510615+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 237,
+      "trips": 2,
+      "avg_duration_minutes": 9.55,
+      "avg_amount_usd": 18.84,
+      "updated_at": "2026-10-25T18:14:55.510615+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 236,
+      "trips": 2,
+      "avg_duration_minutes": 4.966666666666667,
+      "avg_amount_usd": 14.219999999999999,
+      "updated_at": "2026-10-25T18:14:55.510615+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 140,
+      "trips": 2,
+      "avg_duration_minutes": 6.616666666666667,
+      "avg_amount_usd": 15.59,
+      "updated_at": "2026-10-25T18:14:55.510615+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 263,
+      "trips": 1,
+      "avg_duration_minutes": 14.183333333333334,
+      "avg_amount_usd": 27.24,
+      "updated_at": "2026-10-25T18:14:50.509829+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 239,
+      "trips": 1,
+      "avg_duration_minutes": 28.3,
+      "avg_amount_usd": 39.0,
+      "updated_at": "2026-10-25T18:14:50.509829+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 234,
+      "trips": 1,
+      "avg_duration_minutes": 4.833333333333333,
+      "avg_amount_usd": 12.65,
+      "updated_at": "2026-10-25T18:15:01.140888+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 233,
+      "trips": 1,
+      "avg_duration_minutes": 3.3666666666666667,
+      "avg_amount_usd": 13.57,
+      "updated_at": "2026-10-25T18:15:01.140888+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 211,
+      "trips": 1,
+      "avg_duration_minutes": 7.916666666666667,
+      "avg_amount_usd": 17.15,
+      "updated_at": "2026-10-25T18:15:01.140888+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 164,
+      "trips": 1,
+      "avg_duration_minutes": 11.133333333333333,
+      "avg_amount_usd": 18.0,
+      "updated_at": "2026-10-25T18:14:55.510615+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 162,
+      "trips": 1,
+      "avg_duration_minutes": 29.583333333333332,
+      "avg_amount_usd": 30.4,
+      "updated_at": "2026-10-25T18:15:01.140888+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 158,
+      "trips": 1,
+      "avg_duration_minutes": 6.916666666666667,
+      "avg_amount_usd": 14.6,
+      "updated_at": "2026-10-25T18:15:01.140888+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 148,
+      "trips": 1,
+      "avg_duration_minutes": 19.666666666666668,
+      "avg_amount_usd": 27.1,
+      "updated_at": "2026-10-25T18:14:50.509829+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 142,
+      "trips": 1,
+      "avg_duration_minutes": 6.166666666666667,
+      "avg_amount_usd": 15.45,
+      "updated_at": "2026-10-25T18:14:50.509829+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 137,
+      "trips": 1,
+      "avg_duration_minutes": 15.683333333333334,
+      "avg_amount_usd": 17.1,
+      "updated_at": "2026-10-25T18:14:55.510615+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 132,
+      "trips": 1,
+      "avg_duration_minutes": 31.95,
+      "avg_amount_usd": 75.55,
+      "updated_at": "2026-10-25T18:15:01.140888+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 114,
+      "trips": 1,
+      "avg_duration_minutes": 11.033333333333333,
+      "avg_amount_usd": 18.84,
+      "updated_at": "2026-10-25T18:15:01.140888+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 107,
+      "trips": 1,
+      "avg_duration_minutes": 5.733333333333333,
+      "avg_amount_usd": 16.13,
+      "updated_at": "2026-10-25T18:14:55.510615+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 87,
+      "trips": 1,
+      "avg_duration_minutes": 12.816666666666666,
+      "avg_amount_usd": 27.24,
+      "updated_at": "2026-10-25T18:15:01.140888+00:00"
+    },
+    {
+      "start": "2026-10-25 18:14:00",
+      "end": "2026-10-25 18:15:00",
+      "pickup_zone": 79,
+      "trips": 1,
+      "avg_duration_minutes": 5.55,
+      "avg_amount_usd": 12.2,
+      "updated_at": "2026-10-25T18:14:50.509829+00:00"
+    }
+  ],
+  "batches": [
+    {
+      "query_name": "audit",
+      "batch_id": 16,
+      "committed_at": "2026-10-25T18:16:05.253386+00:00"
+    },
+    {
+      "query_name": "windows",
+      "batch_id": 16,
+      "committed_at": "2026-10-25T18:16:05.297645+00:00"
+    }
+  ],
+  "invalid": [
+    {
+      "event_id": "144ef8dd-54f9-486e-bd19-7b00a6ef8fd8:invalid",
+      "reasons": "[\"simulation_required\", \"emission_invalid\", \"historical_dates_invalid\", \"zone_invalid\", \"distance_invalid\", \"duration_invalid\", \"amount_invalid\"]",
+      "payload": "{\"event_id\": \"144ef8dd-54f9-486e-bd19-7b00a6ef8fd8:invalid\", \"duration_minutes\": -1}"
+    }
+  ]
+}
